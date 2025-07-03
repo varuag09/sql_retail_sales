@@ -64,10 +64,22 @@ WHERE
 ```
 
 ### 2. Data Exploration
-- **Record Count**: Determine the total number of records in the dataset.
+- **Sales Count**: Determine the total number of sales in the dataset.
+```sql
+SELECT COUNT(*) as total_sales FROM retail_sales
+``` 
 - **Customer Count**: Find out how many unique customers are in the dataset.
+```sql
+SELECT COUNT(DISTINCT customer_id) as customers FROM retail_sales
+```
 - **Category Count**: Identify all unique product categories in the dataset.
+```sql
+SELECT COUNT(DISTINCT category) as no_of_Category FROM retail_sales
+```
 - **List of Category**: List of all unique categories in the dataset.
+```sql
+SELECT DISTINCT category FROM retail_sales
+```
 
 ### 3. Data Analysis & Findings
 
