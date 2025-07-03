@@ -218,7 +218,7 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 ### Stay Connected
 
 - **LinkedIn**: [Connect with me](http://www.linkedin.com/in/gauravkumar0906)
-- **G-mail**: [Connect with me](gauravkumar.gk0906@gmail.com)
+- **G-mail**: [Connect with me](mailto:gauravkumar.gk0906@gmail.com)
 
 
 Thank you, and I look forward to connecting with you!
